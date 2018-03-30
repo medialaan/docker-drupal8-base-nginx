@@ -1,4 +1,4 @@
-FROM nginx:1.12-alpine
+FROM nginx:1.12.2-alpine
 
 WORKDIR /drupal
 
