@@ -1,3 +1,3 @@
 #!/usr/bin/env groovy
 
-deployDockerImage name: 'drupal8-nginx', public: true
+deployDockerImage name: 'drupal8-base-nginx', public: true
